@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IATCGithubMonitorApp", "IATCGithubMonitorApp\IATCGithubMonitorApp.csproj", "{5A637FE7-7F11-4C04-B41A-1DDDEC0B32CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A637FE7-7F11-4C04-B41A-1DDDEC0B32CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A637FE7-7F11-4C04-B41A-1DDDEC0B32CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A637FE7-7F11-4C04-B41A-1DDDEC0B32CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A637FE7-7F11-4C04-B41A-1DDDEC0B32CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84AD2D6B-4F94-44A2-9D26-81FD19ADA549}
+	EndGlobalSection
+EndGlobal
